@@ -1,0 +1,34 @@
+UGDL is for Unofficial GNU Data Language (GDL)
+
+1. Introduction
+---------------
+
+The website of the official GDL is http://gnudatalanguage.sourceforge.net/
+
+UGDL 0.0.0 is based on GDL 0.9.6
+
+The purpose of this UGDL is as follows:
+  1. to use Git and Github instead of CVS;
+  2. to work on it without impacting ongoing GDL development;
+  3. not only taken for my C++ hobby, but potentially be used in my Python Data Science related learning or project.
+
+UGDL takes the same license as the original GDL.
+All copyright related to UGDL belongs to the author of GDL, i.e. Marc Schellens.
+
+We will try to integrate all new updates of GDL into UGDL.
+
+2. Limitation
+-------------
+
+As this is a personal clone of the official GDL, we are only interested in the following platforms:
+  * Windows Cygwin;
+  * Mac OS.
+
+So some eventual fix for other platforms may not be integrated here. Sorry for that.
+
+3. Procedure
+------------
+
+To clone UGDL on your working folder:
+
+$ git clone https://github.com/jiangzzz/UGDL.git
